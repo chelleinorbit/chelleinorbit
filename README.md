@@ -1,5 +1,6 @@
-## Hi there 👋
+##  Hi there 👋
 
+###  My name is Michelle and my pronouns are she/they. I'm an aspiring programmer working to get into back-end development. I am working my way through the boot.dev back-end course, currently learning Python! I am excited to contribute more in the programming community and eventually land my dream job as a back-end engineer!
 <!--
 **chelleinorbit/chelleinorbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/77507474-5d64-4bc9-b0c0-f0da2377066c/thumbnail" >
+</p>
