@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/77507474-5d64-4bc9-b0c0-f0da2377066c/thumbnail" >
 </p>
+
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4114ed4a-1fb3-4357-bcf2-61cf4976df90.jpeg?v=1789694170)](https://www.boot.dev/certificates/4114ed4a-1fb3-4357-bcf2-61cf4976df90)
